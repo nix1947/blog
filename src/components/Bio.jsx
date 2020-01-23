@@ -71,13 +71,13 @@ const Bio = () => {
 			<div css={{ fontSize: 16, color: secondary }}>
 				<p>
 					Personal blog of <a href={social.twitter}>{author}</a>. I’m a{' '}
-					<a href={social.github}>JavaScript engineer</a> working with React, React Native, GraphQL
-					and Node. I also create <a href={social.youtube}>programming videos</a> with my friend. In
-					my spare time I play music and DoTA.
+					<a href={social.github}>Backend Developer</a> who use Python, Django and JavaScript to develop software.
+				 		I have created a website that contains free text and video tutorials on computer science subjects <a href={'https://codeschoolnepal.com'}>CodeSchoolNepal</a>
+					.
 				</p>
 				<p>
 					You may follow me on <a href={social.twitter}>twitter</a> or join my{' '}
-					<a href={social.newsletter}>newsletter</a> for latest updates.
+					<a href='linkedin.com/in/manojgautamnepal'>Linkedin</a> for latest updates.
 				</p>
 			</div>
 		</div>

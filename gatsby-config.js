@@ -1,19 +1,19 @@
 module.exports = {
 	siteMetadata: {
-		bio: 'Life, music, code and things in between…',
-		title: `Divyanshu Maithani`,
-		author: `Divyanshu Maithani`,
-		description: `Personal blog of Divyanshu Maithani`,
-		siteUrl: `https://divyanshu013.dev`,
+		bio: 'Coding, Reading, and STOCK in between..',
+		title: `Manoj Gautam`,
+		author: `Manoj Gautam`,
+		description: `Personal Blog of Manoj Gautam`,
+		siteUrl: `https://manojgautam.com.np`,
 		social: {
-			twitter: `https://twitter.com/divyanshu013`,
-			github: 'https://github.com/divyanshu013',
-			youtube: 'https://youtube.com/WhatTheJavaScript',
-			soundcloud: 'https://soundcloud.com/divyanshu-maithani',
-			instagram: 'https://instagram.com/divyanshu013',
-			email: 'mailto:div.blackcat@gmail.com',
-			stackoverflow: 'https://stackoverflow.com/users/4952669/divyanshu-maithani',
-			newsletter: 'https://tinyletter.com/divyanshu',
+			twitter: `https://twitter.com/nix1947`,
+			github: 'https://github.com/nix1947',
+			youtube: 'https://youtube.com/openpy',
+			soundcloud: 'https://soundcloud.com/#',
+			instagram: 'https://instagram.com/manojgautami',
+			email: 'mailto:manojit.gautam@gmail.com',
+			stackoverflow: 'https://stackoverflow.com/users/shining/',
+			newsletter: 'https://tinyletter.com/#',
 		},
 	},
 	plugins: [
@@ -93,7 +93,7 @@ module.exports = {
 		{
 			resolve: `gatsby-plugin-google-analytics`,
 			options: {
-				trackingId: 'UA-54730700-3',
+				trackingId: 'UA-92360219-3',
 				head: false,
 				anonymize: true,
 				respectDNT: true,
